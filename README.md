@@ -18,4 +18,4 @@ This is Task 2 of the BharatIntern Internship program, where you were tasked wit
 - JavaScript
 
 ## Screenshot
-<img src="">
+<img src="s1.PNG">
