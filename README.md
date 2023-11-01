@@ -9,7 +9,6 @@ This is Task 2 of the BharatIntern Internship program, where you were tasked wit
 - Convert temperatures between Celsius, Fahrenheit, and Kelvin.
 - Real-time conversion as you type or select temperature values.
 - User-friendly and responsive design.
-- Error handling for invalid inputs and unit selections.
 
 ## Technologies Used
 
